@@ -1,0 +1,30 @@
+.Home .lander {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.Home .lander h1 {
+
+    font-family: Luckiest Guy, serif;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.info1{
+    color: orange;
+
+}
+
+.info2{
+    color: #6acfff;
+}
+
+.Home .lander p {
+    color: #775000;
+    font-size: 40px;
+}
+
+.Home{
+    min-height: 1000px;
+}
+

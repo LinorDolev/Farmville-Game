@@ -1,0 +1,12 @@
+#playgroundSC{
+    min-height: 1000px;
+}
+
+#messageBoard{
+    margin-right: auto;
+}
+
+.messageBoardButton{
+    border: saddlebrown 10px ;
+    border-radius: 1rem;
+}

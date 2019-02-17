@@ -1,0 +1,35 @@
+.App {
+    margin-top: 15px;
+
+}
+
+.App .navbar-brand {
+    font-weight: bold;
+    font-family: Luckiest Guy, serif;
+
+}
+
+
+.info1{
+    color: orange;
+}
+
+.info2{
+    color: #6acfff;
+}
+
+
+
+
+#whole{
+
+    /* Full height */
+    height: 100%;
+    font-family: Luckiest Guy, serif;
+
+    /* Center and scale the image nicely */
+    background: url("https://images.alphacoders.com/928/thumb-1920-928999.jpg") no-repeat center;
+    background-size: cover;
+
+}
+
